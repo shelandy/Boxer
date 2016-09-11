@@ -6,4 +6,8 @@ The design goals are tried to be easy to make yet satble as possible.  The major
 
 All models are in the box_frame folder, including models for aluminium single plate. For some common configs we prepared models, see box_frame/sample_stls.
 
+The controoler will have two versions:
+Arduino ATmega + RAMPS or TI EZ430 + TI's stepper driver board
+This fork will focus on Arduino ATmega + RAMPS, will fork another one once we know how to make TI EZ430 + TI's stepper driver board work   
+
 If you are looking for models that josefprusa uses in workshops, you need to go to https://github.com/josefprusa/Prusa3-vanilla
