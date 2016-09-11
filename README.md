@@ -3,9 +3,10 @@ a fork from the Prusa iteration 3
 Published under GPL v3
 
 Why another one ?
-The design goals are tried to be easy to make yet satble as possible.  The major style is inheritanted from box frame of Prusa i3.  Additional close-loop control and monitoring will be added later.  This is also serve as the prototype of recyclePhenox, a smaller one made of mostly recycled material.   
 
-The controoler will have two versions:
+The design goals are tried to be easy to make yet as stable as possible.  The popular steel style is hard to make for newbies unless you already have access to a laser cutter or a 3d printer.  The major style is inheritanted from box frame of Prusa i3.  Additional close-loop control and monitoring will be added later.  This is also serve as the prototype of recyclePhenox, a smaller one made of mostly recycled material.   
+
+The controller will have two versions:
 Arduino ATmega + [RAMPS] (http://www.reprap.org/wiki/RAMPS_1.4) or TI EZ430 + TI's [Boosterpack for 3D Printer Control] (http://www.ti.com/tool/TIDM-PRINTERPACK)
 This fork will focus on Arduino ATmega + RAMPS, will fork another one once we know how to make TI EZ430 + TI's stepper driver board work  
 
