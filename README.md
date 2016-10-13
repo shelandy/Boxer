@@ -1,6 +1,9 @@
-# This is Prusa iteration 3
-Published under GPL v3
+# This is Boxer, a coreXY style 3D printer
 
-All models are in the box_frame folder, including models for aluminium single plate. For some common configs we prepared models, see box_frame/sample_stls.
+get influence from VSlot-CoreXY https://github.com/sdavi/VSlot-CoreXY and smartcore https://github.com/smartfriendz/smartcore
 
-If you are looking for models that josefprusa uses in workshops, you need to go to https://github.com/josefprusa/Prusa3-vanilla
+Frame Size: 400mm x 400mm x 500mm
+Build Area (X x Y x Z): 220mm x 220mm x 240mm. 
+
+
+
